@@ -2,3 +2,5 @@
 
 > [!NOTE]  
 > The logos of the various experiments are subject to their respective copyrights!
+
+![ACTS](figure.svg)
